@@ -70,7 +70,7 @@ input{
     color: white;
 }
 .btn:hover{
-    background-color: rgb(198, 90, 245);
+    background-color: rgb(8, 180, 83);
 }
 .para{
     margin-top: 20px;
@@ -86,12 +86,12 @@ p{
 
   @media (max-width:668px) {
     .card{
-        width: 25rem;
+        width: 24rem;
         height: 22rem;
         font-size: 0.9rem;
     }
     input{
-        width: 42%;
+        width: 38%;
     }
 
       
